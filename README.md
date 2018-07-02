@@ -2,7 +2,7 @@
 Ryan Sheridan and Viktor Bubanja's SENG201 Assignment
 
  ----Name of the Game----
-Heroes and Villains README.txt
+Heroes and Villains
 
  ----Description----
 Heroes and Villains is a game written using a GUI widjet toolkit for Java called Swing.
